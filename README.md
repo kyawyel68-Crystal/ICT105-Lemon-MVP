@@ -9,12 +9,12 @@ Summer-Semester-long IT startup MVP project for ICT105 Fundamental Technology En
 - **Project Type:** 14-Labs Continuous IT Startup MVP Development
 
 ## Team Name
-[Lemon]
+[Nameenae]
 
 ## Team Members and Roles
 | Name | Role | Responsibility |
 |---|---|---|
-| [Student 1 Name] | Product Lead | Define problem, target users, and value proposition |
+| [Mr. Kyaw Ye Lin] | Product Lead | Define problem, target users, and value proposition |
 | [Phollapat Rodchue] | Technical Lead | Manage repository and prototype feasibility |
 | [Tin May Lin] | UX/UI Lead + Documentation Lead | Design interface and maintain documentation |
 
